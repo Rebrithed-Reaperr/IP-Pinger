@@ -30,7 +30,6 @@ def ping():
             print(Main_Logo)
             print(Online_Logo)
             time.sleep(0.1)
-          else:
               os.system('cls')
               print(Main_Logo)
               print(Offline_Logo)
