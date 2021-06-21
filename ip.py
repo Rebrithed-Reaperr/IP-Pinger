@@ -1,4 +1,4 @@
-import colorama, time, os
+import colorama, time, os, system
 from colorama import Fore
 from time import sleep
 
